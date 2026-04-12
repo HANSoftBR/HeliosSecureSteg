@@ -97,6 +97,11 @@ Este aplicativo é fornecido **"no estado em que se encontra" ("as is")**, sem g
 
 O desenvolvedor **não se responsabiliza por quaisquer danos, perdas de dados ou outros problemas decorrentes do uso deste software**.
 
+Este software destina-se ao armazenamento local protegido de conteúdos e arquivos, com uso de mecanismos criptográficos, validação de integridade e demais recursos técnicos descritos em sua documentação.
+A HANSoft não garante recuperação de dados em toda e qualquer hipótese de falha, corrupção, esquecimento de senha, dano ao dispositivo, exclusão indevida, interrupção elétrica, falha do sistema operacional, infecção por malware, erro humano ou comprometimento externo do ambiente.
+O usuário é responsável por manter cópias de segurança independentes dos conteúdos relevantes, bem como por conservar em segurança credenciais, chaves, senhas e meios de acesso necessários ao uso do software.
+O uso do software não elimina a necessidade de boas práticas de segurança digital, incluindo atualização do sistema, proteção do dispositivo, verificação periódica de integridade e rotina de backup.
+
 ---
 
 ## Licença
