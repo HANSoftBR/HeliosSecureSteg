@@ -1,4 +1,9 @@
 # Helios Secure Steg v1.0.0
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
+
+> **Status:** Descontinuado  
+> Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
 📧 **Contato:** devhansoft@gmail.com  
 📄 **Licença:** Licença Proprietária — HANSoft
