@@ -1,4 +1,6 @@
 # LICENÇA DE USO — SOFTWARE PROPRIETÁRIO
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
 **Nome do Software:** Helios Secure Steg  
 **Autor:** HANSoft (Desenvolvedor independente)  
@@ -40,11 +42,41 @@ O uso do software não transfere ao usuário qualquer direito de propriedade int
 
 ## 4. ISENÇÃO DE GARANTIA
 
-O software é fornecido **"NO ESTADO EM QUE SE ENCONTRA"**, sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando, às garantias de comercialização, adequação a uma finalidade específica ou não violação de direitos de terceiros.
+O **Helios Secure Steg** é fornecido **"no estado em que se encontra"** (**"AS IS"**), de acordo com suas funcionalidades normais e limitações técnicas previsíveis, **sem garantias de qualquer tipo**, expressas ou implícitas.
 
-O **Helios Secure Steg** é uma ferramenta de esteganografia criptografada destinada a auxiliar na proteção e ocultação de dados do usuário. O software não garante proteção absoluta contra todas as formas de perda de dados, análise forense, ataques ou falhas de sistema.
+Este software destina-se ao **armazenamento local protegido de conteúdos e arquivos**, com uso de mecanismos criptográficos, validação de integridade e demais recursos técnicos descritos em sua documentação.
 
-Em nenhuma hipótese a **HANSoft** será responsável por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso ou incapacidade de uso deste software.
+**O desenvolvedor não garante:**
+
+- ausência total de falhas, erros, bugs ou vulnerabilidades;
+- funcionamento ininterrupto;
+- recuperação integral de dados em qualquer hipótese de falha;
+- proteção absoluta contra acesso indevido, perda de dados, falhas do sistema ou comprometimento do ambiente do usuário;
+- impossibilidade de perda de acesso ao conteúdo em caso de esquecimento de senha, perda de credenciais ou dano ao dispositivo.
+
+Bugs, falhas e comportamentos inesperados **podem existir e podem ocorrer durante o uso**, mesmo com testes e cuidados no desenvolvimento. Nenhum software é totalmente livre de erros.
+
+O usuário reconhece que a **decisão de utilizar este software é feita por sua própria escolha e responsabilidade**, devendo avaliar previamente se ele atende às suas necessidades e se é adequado ao ambiente em que será utilizado.
+
+**O usuário é responsável por:**
+
+- manter cópias de segurança independentes dos conteúdos relevantes;
+- proteger credenciais, chaves, senhas e meios de acesso necessários ao uso do software;
+- verificar periodicamente a integridade dos dados armazenados;
+- adotar boas práticas de segurança digital, incluindo atualização do sistema, proteção do dispositivo e rotina de backup.
+
+Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não se responsabiliza por prejuízos decorrentes de:
+
+- perda, corrupção ou exclusão indevida de dados;
+- esquecimento de senha ou perda de credenciais de acesso;
+- uso inadequado do software;
+- falhas, bugs ou comportamentos inesperados;
+- falhas no sistema operacional ou no ambiente do usuário;
+- malware, keyloggers, acesso físico ao dispositivo, captura indevida de tela, engenharia social, interrupção elétrica, erro humano ou interferência de antivírus, filtros e softwares de terceiros.
+
+---
+
+**Importante:** nenhum software pode oferecer garantia absoluta de segurança, funcionamento contínuo ou recuperação total de dados em todos os cenários.
 
 ---
 
